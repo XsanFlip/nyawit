@@ -1,5 +1,8 @@
 # NYAWIT: Ninja Yard Attack Weaponization & Injection Tasks
 
+<img width="1919" height="1116" alt="Screenshot 2026-02-01 at 01-00-25 NYAWIT By XsanLahci" src="https://github.com/user-attachments/assets/4232b590-6df5-4a3a-81ca-d668bd1beb83" />
+
+
 **NYAWIT** is a professional-grade web utility designed to bridge the gap between **HAK5 Bash Bunny** payloads and **Flipper Zero BadUSB** devices. This tool converts DuckyScript/BashBunny logic into highly optimized Flipper Zero `.txt` injection scripts with intelligent execution strategies.
 
 ## 🚀 Key Features
