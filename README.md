@@ -38,6 +38,10 @@ Choose from 4 distinct interfaces tailored to different user personas:
 -   **Strategy 2 (Offline B64):** Encodes your script into Base64 and writes it to a temporary file via command chunks. No internet required.
     
 -   **Strategy 3 (Inline Type):** Classic line-by-line injection. Recommended only for small, quick scripts (<15 lines).
+
+
+
+##  DEMO : https://nyawit.tiiny.site ##
     
 
 ## 📥 Getting Started
